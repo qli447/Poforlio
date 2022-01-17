@@ -84,9 +84,7 @@ Y_test <- dat[-train_ind,ncol(dat)]
 #X_test <- X_test[,-ncol(X_test)]
 
 #Run LASSO Regresssion
-lasso_mod <- glmnet(X_train, Y_train,
-                    family = "gaussian", alpha = 1,
-                    standardize = TRUE, nlambda=10)
+lasso_mod <- glmnet(X_train, Y_train,family = "gaussian", alpha = 1, standardize = TRUE, nlambda=10)
 
 plot(lasso_mod, lwd = 1 , xvar = "lambda")
 
@@ -104,11 +102,8 @@ lasso_best <- glmnet(X_train, Y_train, family = "gaussian", alpha = 1, lambda = 
  Y <- Y_train
  Y.test <- Y_test
 
- RMSE.trn_LASSO <- do.RMSE.train_set(predict(lasso_best, newx = X_train,
-  type = "response"))
- RMSE.test_LASSO <- do.RMSE.test(predict(lasso_best, newx = X_test
-  ,type = "response"))
-# 
+ RMSE.trn_LASSO <- do.RMSE.train_set(predict(lasso_best, newx = X_train, type = "response"))
+ RMSE.test_LASSO <- do.RMSE.test(predict(lasso_best, newx = X_test, type = "response"))
  RMSE.trn_LASSO; RMSE.test_LASSO
 
 
