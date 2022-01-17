@@ -4,7 +4,7 @@ dat[1:2,]
 dat <- dat[,-1]
 dim(dat)
 #Preparing the data
-#Let¡¯s commence by inspecting the outcome variable:
+#LetÂ¡Â¯s commence by inspecting the outcome variable:
 library(MASS)
 loss <- dat$loss
 hist(loss)
@@ -32,7 +32,7 @@ qqline(log(loss), col="blue", lwd=3)
 #Looks better.
 
 #For simplicity, we consider a training data set that only consists of 20% of the data. Clearly, 
-#that¡¯s not a typical choice in applications, 
+#thatÂ¡Â¯s not a typical choice in applications, 
 #but we choose a small training set here so as to keep runtimes manageable (we only have four days :-)
 
 set.seed(652)
@@ -44,7 +44,7 @@ dim(train); dim(test)
 #Predictive Modeling
 #Our objective now is to build a prediction model that minimizes the error evaluated on the test set. 
 #The mosty basic candidate is a linear regression that includes all covariates, 
-#so let¡¯s run that for comparison purposes (we could also include a step-wise regression 
+#so letÂ¡Â¯s run that for comparison purposes (we could also include a step-wise regression 
 #via r1 <- stepAIC(r0, data=train) but it takes a very long time to run):
   
 r0 <- lm(loss~., data=train)
