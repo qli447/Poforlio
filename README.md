@@ -37,7 +37,7 @@ We still use the same dataset of wine qualities, and in this study we run a clus
 
 # Data Technology
 
-### [Twitter Trending Scores System Milestone1](https://github.com/qli447/TwitterTrendingScoreSystem/blob/main/server.py)
+### [Twitter Trending Scores System Milestone1 Server](https://github.com/qli447/TwitterTrendingScoreSystem/blob/main/server.py)
 
 ### [Twitter Trending Scores System Milestone2 Calculation](https://github.com/qli447/TwitterTrendingScoreSystemCalculationV1.0)
 
