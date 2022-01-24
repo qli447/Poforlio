@@ -3,7 +3,7 @@ Codes for machine learning algorithms, data technology project, prescriptive mod
 
 # Machine Learning Algorithms
 # Linear Regression: Ordinary Least Squares, Gerneralized Least Squares, Penalized Least Squares (LASSO, Ridge)
-### [Telecom Work Measurement Study -OLS](https://github.com/qli447/Poforlio/blob/main/Machine%20Learning/Telecom_Work_Measurement_Study.R)
+### [Telecom Work Measurement Study -OLS](https://github.com/qli447/Poforlio/blob/main/Machine%20Learning/Linear%20Regression/Telecom_Work_Measurement_Study.R)
 This model is some telecom data and evaluates different linear regression models that determines the relationship between the dependent variable of number of hours worked, and some independent variables.
 
 ### [Claims_Study.R](https://github.com/qli447/Poforlio/blob/main/Machine%20Learning/LASSO/Claims_Study.R)
