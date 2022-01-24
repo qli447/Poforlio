@@ -3,7 +3,8 @@ Codes for machine learning algorithms, prescriptive modeling &amp; optimization 
 
 # Machine Learning Algorithms
 •Linear Regression: Gerneralized Least Squares, Penalized Least Squares (LASSO, Ridge)
-# https://github.com/qli447/Poforlio/blob/19be07e62f1faec148044b04836c0b9b1104775d/Machine%20Learning/Telecom_Work_Measurement_Study
+https://github.com/qli447/Poforlio/blob/19be07e62f1faec148044b04836c0b9b1104775d/Machine%20Learning/Telecom_Work_Measurement_Study
+
 •Logistic  Regression
 
 •Support Vector Machines(SVM)
