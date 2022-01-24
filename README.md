@@ -37,9 +37,9 @@ We still use the same dataset of wine qualities, and in this study we run a clus
 
 # Data Technology
 
-###[Twitter Trending Scores System Milestone1](https://github.com/qli447/TwitterTrendingScoreSystem/blob/main/server.py)
+### [Twitter Trending Scores System Milestone1](https://github.com/qli447/TwitterTrendingScoreSystem/blob/main/server.py)
 
-###[Twitter Trending Scores System Milestone2 Calculation](https://github.com/qli447/TwitterTrendingScoreSystemCalculationV1.0)
+### [Twitter Trending Scores System Milestone2 Calculation](https://github.com/qli447/TwitterTrendingScoreSystemCalculationV1.0)
 
 In this project, my group and I build a system to continuously score phrases and words based on their “trendiness” on Twitter. The project was developed on a Linux (Ubuntu 20.04) Virtual Machine. In the first part of this project(Milestone1), we need to read tweets from the Twitter API or a file and write them to a file on disk. For Milestone2, we create a data warehouse for the tweets from Twitter and then calculate the trending scores. In addition, to complete the calcualtion, we have a “Trendiness Score” formula, and the trendiness of a phrase p at time t is computed as follows: Trendiness(p, t) = log10[ Prob(p|current minute at t) ] - log10[ Prob(p|minute prior to t) ]
 
