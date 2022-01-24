@@ -20,21 +20,13 @@ Codes for machine learning algorithms, prescriptive modeling &amp; optimization 
 
 # Prescriptive modeling &amp; optimization projects:
 
-•Allocation 
-
-•Blending 
-
-•Covering 
+•Allocation, Blending, Covering 
 
 •Markdown Pricing 
 
 •Financial Portfolio 
 
-•Min Cost Flow  
-
-•Max Flow 
-
-•Shortest Path 
+•Min Cost Flow, Max Flow, Shortest Path 
 
 •Transportation 
 
@@ -52,11 +44,7 @@ Codes for machine learning algorithms, prescriptive modeling &amp; optimization 
 
 •Traveling Salesman 
 
-•Set Covering 
-
-•Set Packing  
-
-•Set Partitioning 
+•Set Covering, Set Packing, Set Partitioning 
 
 •Subscription Box Management 
 
