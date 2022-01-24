@@ -32,7 +32,9 @@ Codes for machine learning algorithms, prescriptive modeling &amp; optimization 
 
 •Min Cost Flow  
 
-•Max Flow •Shortest Path 
+•Max Flow 
+
+•Shortest Path 
 
 •Transportation 
 
