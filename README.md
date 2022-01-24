@@ -1,7 +1,7 @@
 # Poforlio
 Codes for machine learning algorithms, prescriptive modeling &amp; optimization projects, A/B test that I did:
 
-Machine Learning Algorithms
+# Machine Learning Algorithms
 •Linear Regression: Gerneralized Least Squares, Penalized Least Squares (LASSO, Ridge)
 
 •Logistic  Regression
@@ -18,7 +18,7 @@ Machine Learning Algorithms
 
 •Neural Network
 
-Prescriptive modeling &amp; optimization projects:
+# Prescriptive modeling &amp; optimization projects:
 
 •Allocation 
 
