@@ -47,7 +47,7 @@ In this project, my group and I build a system to continuously score phrases and
 
 Please take a look at my Tableau Public profile for the visuals I've made in some projects.
 
-Profile:https://public.tableau.com/app/profile/qinfei
+Profile: https://public.tableau.com/app/profile/qinfei
 
 # Prescriptive modeling &amp; optimization projects:
 
