@@ -1,5 +1,5 @@
 # Poforlio
-Codes for machine learning algorithms, data technology project, data visualization, prescriptive modeling &amp; optimization projects, A/B test that I did:
+Codes for machine learning algorithms, data technology project, data visualization, prescriptive modeling &amp; optimization projects that I did:
 
 # Machine Learning Algorithms
 # Linear Regression: Ordinary Least Squares, Gerneralized Least Squares, Penalized Least Squares (LASSO, Ridge)
